@@ -1,0 +1,10 @@
+Exemplo fictício de uma análise de dados de uma empresa de cartão de crédito
+
+Problemas percebidos
+1- Quem ganha menos de 40k no ano tende a ter uma alta taxa de cancelamento
+2- Quanto menos as pessoas usam o cartão, mais elas tendem a cancelar
+3- Quanto mais a pessoa liga no callcenter mais chances dela cancelar
+
+Como resolver?
+1- Para o problema 1, podemos abaixar a quantidade de juros do cartão para essa pessoa, já que esse grupo tende a receber muito menos que os outros, então uma diminuição nos juros poderia fazer a pessoa ficar mais "tranquila" para usar o cartão. E com isso resolvemos uma parte do problema 2, já que quanto menos a pessoa usa os produtos da empresa mais ela cancela, como visto nos gráficos de produtos contratados, inatividade 12m, limite consumido, quantidade de transações 12m, todos esses gráficos estão ligados ao quanto o cliente usa os produtos da empresa, então se por meios de incentivos (como por exemplo: políticas de pontos, menos juros, caso ela não atrase os pagamentos ela terá um desconto na conta) as pessoas usariam mais o cartão fazendo assim as pessoas terem menos chances de cancelarem conosco.
+2- A quantidade de contato que a pessoa faz com a empresa é diretamente proporcional ao número de cancelamentos, sendo que caso a pessoa faça mais de 3 ligações as chances dela cancelar aumentam exponencialmente, então se melhorarmos os nossos produtos e mantivermos uma boa relação com os clientes (por exemplo: sabendo as nescessidades desse cliente, sempre tentar fazer o máximo para antende-las), tentando sempre fazer com que eles não precisem entrar em contato conosco teriamos mais chances de evitar que esse cliente cancele.
